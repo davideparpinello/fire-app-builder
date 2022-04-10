@@ -44,7 +44,7 @@ public class Navigator implements Application.ActivityLifecycleCallbacks {
     /**
      * Navigator file name.
      */
-    public static final String NAVIGATOR_FILE = "Navigator.json";
+    public static final String NAVIGATOR_FILE = "Navigator_LaTendaTv.json";
 
     /**
      * Context.
